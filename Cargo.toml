@@ -1,5 +1,5 @@
 [package]
-name = "blink-raspi-pi3"
+name = "blink-pi3"
 version = "0.1.0"
 edition = "2021"
 
